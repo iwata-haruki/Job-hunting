@@ -1,5 +1,9 @@
 package mp1final;
-
+/*
+類似画像検索ソフト
+濃度、ラン平均、ラン標準偏差、重心を特徴量としてシンボルマークの画像から入力された画像に類似している
+画像を上位１０個表示する
+*/
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
